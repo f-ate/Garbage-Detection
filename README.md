@@ -277,6 +277,12 @@ link of project
 Insert gif or link to demo
 
 
+
+https://user-images.githubusercontent.com/97509895/151504802-950da1c0-2e52-49f7-bee2-40c12c7c721d.mp4
+
+
+
+
 ## Running Garbage Detection Model
 source '0' for webcam
 
@@ -286,7 +292,7 @@ source '0' for webcam
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/f-ate/Garbage-Detection/blob/main/IMG_20220125_115121.jpg)
 
 
 ## Advantages
